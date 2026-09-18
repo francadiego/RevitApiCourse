@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RevitApiCourse": {
+      "commandName": "Project",
+      "debugEngines": "managed",
+      "remoteDebugEnabled": false,
+      "sqlDebugging": false
+    }
+  }
+}

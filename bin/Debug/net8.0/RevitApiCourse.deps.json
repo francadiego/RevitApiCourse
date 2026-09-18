@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RevitApiCourse/1.0.0": {
+        "runtime": {
+          "RevitApiCourse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevitApiCourse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

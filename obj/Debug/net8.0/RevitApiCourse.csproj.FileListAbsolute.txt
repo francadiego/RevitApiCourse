@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\bin\Debug\net8.0\RevitApiCourse.deps.json
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\bin\Debug\net8.0\RevitApiCourse.dll
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\bin\Debug\net8.0\RevitApiCourse.pdb
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.AssemblyInfo.cs
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.dll
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\refint\RevitApiCourse.dll
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.pdb
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\ref\RevitApiCourse.dll
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApi.5DD35911.Up2Date
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\bin\Debug\net8.0\Utilities\RevitApiCourse.addin
