@@ -33,4 +33,15 @@
 		<VendorId>DNF</VendorId>
 		<VendorDescription>Engineer</VendorDescription>
 	</AddIn>
+	<AddIn Type="Command">
+		<Name>GetElementLocation</Name>
+		<FullClassName>RevitApiCourse.GetElementLocation</FullClassName>
+		<Text>GetElementLocation</Text>
+		<Description>Location point elements</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Diego\AppData\Roaming\Autodesk\Revit\Addins\2026\RevitApiCourse\RevitApiCourse.dll</Assembly>
+		<AddInId>E0605F4A-1363-4018-9513-697DCBCDFDF9</AddInId>
+		<VendorId>DNF</VendorId>
+		<VendorDescription>Engineer</VendorDescription>
+	</AddIn>
 </RevitAddIns>
