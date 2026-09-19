@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="echo Configuration: $(Configuration)&#xD;&#xA;if not exist &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot; mkdir &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)$(TargetName).dll&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)$(TargetName).pdb&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)\Utilities\*.addin&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026&quot;&#xD;&#xA;" />
+    <Exec Command="echo Configuration: $(Configuration)&#xD;&#xA;if not exist &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot; mkdir &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)$(TargetName).dll&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)$(TargetName).pdb&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026\$(ProjectName)&quot;&#xD;&#xA;copy &quot;$(TargetDir)\Utilities\*.addin&quot; &quot;%25APPDATA%25\Autodesk\Revit\Addins\2026&quot;&#xD;&#xA;&#xD;&#xA;start &quot;&quot; &quot;C:\Program Files\Autodesk\Revit 2026\Revit.exe&quot;" />
   </Target>
 	
 	<PropertyGroup>

@@ -22,4 +22,15 @@
 		<VendorId>DNF</VendorId>
 		<VendorDescription>Engineer</VendorDescription>
 	</AddIn>
+	<AddIn Type="Command">
+		<Name>CollectorAndFilter</Name>
+		<FullClassName>RevitApiCourse.CollectorAndFilter</FullClassName>
+		<Text>CollectorAndFilter</Text>
+		<Description>Count doors.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Diego\AppData\Roaming\Autodesk\Revit\Addins\2026\RevitApiCourse\RevitApiCourse.dll</Assembly>
+		<AddInId>BCBB2FBA-55A2-4181-AED4-AE4AFAD91735</AddInId>
+		<VendorId>DNF</VendorId>
+		<VendorDescription>Engineer</VendorDescription>
+	</AddIn>
 </RevitAddIns>

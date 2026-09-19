@@ -12,3 +12,4 @@ C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\Revit
 C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\ref\RevitApiCourse.dll
 C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApi.5DD35911.Up2Date
 C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\bin\Debug\net8.0\Utilities\RevitApiCourse.addin
+C:\Users\Diego\source\repos\RevitApiCourse\RevitApiCourse\obj\Debug\net8.0\RevitApiCourse.sourcelink.json

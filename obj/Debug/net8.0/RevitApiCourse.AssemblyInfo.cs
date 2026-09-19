@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevitApiCourse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e9f9bb7da5f2cb1311ab373c8be2ea8d333a313")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevitApiCourse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevitApiCourse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
